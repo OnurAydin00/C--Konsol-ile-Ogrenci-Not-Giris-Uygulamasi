@@ -1,0 +1,14 @@
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\bin\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.exe
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\bin\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.deps.json
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\bin\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.runtimeconfig.json
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\bin\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.runtimeconfig.dev.json
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\bin\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.dll
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\bin\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.pdb
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.csproj.AssemblyReference.cache
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.AssemblyInfoInputs.cache
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.AssemblyInfo.cs
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.dll
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.pdb
+C:\Users\Onur AYDIN\source\repos\Ogrenci Not Giris Ekranı\Ogrenci Not Giris Ekranı\obj\Debug\netcoreapp3.1\Ogrenci Not Giris Ekranı.genruntimeconfig.cache
